@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="points"><b>Zdobyl*s 0 punktow</b>></string>
+    <string name="next_text">Nastepne</string>
+    <string name="questionNumber">Pytanie 1/10</string>
+    <string name="question1">2 + 2 = </string>
+    <string name="q1_ans1">4</string>
+    <string name="q1_ans2">8</string>
+    <string name="q1_ans3">1</string>
+    <string name="q1_ans4">2</string>
+    <string name="question2">Rok bitwy pod Grunwaldem to: </string>
+    <string name="q2_ans1">1220</string>
+    <string name="q2_ans2">1410</string>
+    <string name="q2_ans3">1860</string>
+    <string name="q2_ans4">520</string>
+    <string name="question3">Który z tych krajów nie leży w Europie?</string>
+    <string name="q3_ans1">Francja</string>
+    <string name="q3_ans2">Japonia</string>
+    <string name="q3_ans3">Niemcy</string>
+    <string name="q3_ans4">Włochy</string>
+    <string name="question4">Jak nazywa się stolica Polski?</string>
+    <string name="q4_ans1">Wrocław</string>
+    <string name="q4_ans2">Poznań</string>
+    <string name="q4_ans3">Warszawa</string>
+    <string name="q4_ans4">Kraków</string>
+    <string name="question5">Który pierwiastek chemiczny ma symbol O?</string>
+    <string name="q5_ans1">Azot</string>
+    <string name="q5_ans2">Złoto</string>
+    <string name="q5_ans3">Srebro</string>
+    <string name="q5_ans4">Tlen</string>
+    <string name="question6">Kto napisał "Dziady"?</string>
+    <string name="q6_ans1">Adam Mickiewicz</string>
+    <string name="q6_ans2">Juliusz Słowacki</string>
+    <string name="q6_ans3">Ignacy Krasicki</string>
+    <string name="q6_ans4">J. K. Rowling</string>
+    <string name="question7">Która litera jest 5 literą alfabetu?</string>
+    <string name="q7_ans1">E</string>
+    <string name="q7_ans2">F</string>
+    <string name="q7_ans3">G</string>
+    <string name="q7_ans4">H</string>
+    <string name="question8">W którym roku zakończyła się II wojna światowa?</string>
+    <string name="q8_ans1">1910</string>
+    <string name="q8_ans2">1945</string>
+    <string name="q8_ans3">1886</string>
+    <string name="q8_ans4">2005</string>
+    <string name="question9">Którego dnia zakończył się rok 1525?</string>
+    <string name="q9_ans1">24 kwietnia</string>
+    <string name="q9_ans2">31 luty</string>
+    <string name="q9_ans3">31 grudnia</string>
+    <string name="q9_ans4">3 marca</string>
+    <string name="question10">Z jakiego kraju pochodzi spaghetti?</string>
+    <string name="q10_ans1">Finlandia</string>
+    <string name="q10_ans2">Polska</string>
+    <string name="q10_ans3">Włochy</string>
+    <string name="q10_ans4">Grecja</string>
+
+
+</resources>
